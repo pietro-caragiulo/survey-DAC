@@ -1,5 +1,5 @@
 # DAC Performance Survey 1996-2020
-### Authors: Pietro Caragiulo, Clayton Daigle, Boris Murmann
+Authors: Pietro Caragiulo, Clayton Daigle, Boris Murmann
 ----
 <!--  
 For use in publications and presentations please cite this data collection as follows:
