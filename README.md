@@ -17,7 +17,7 @@ P. Caragiulo, "DAC Performance Survey 1996-2020," [Online]. Available: https://g
 <tr> 
   <td>Visitors</td>
   <td>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=pietro-caragiulo.survey-DAC)
+    <img src="https://visitor-badge.glitch.me/badge?page_id=pietro-caragiulo.survey-DAC" alt="visitors"/>
   </td>  
 </tr>
 
