@@ -1,6 +1,6 @@
 # DAC Performance Survey 1996-2020
-Authors: Pietro Caragiulo, Clayton Daigle, Boris Murmann
 ----
+Authors: Pietro Caragiulo, Clayton Daigle, Boris Murmann
 <!--  
 For use in publications and presentations please cite this data collection as follows:
 P. Caragiulo, "DAC Performance Survey 1996-2020," [Online]. Available: https://github.com/pietro-caragiulo/survey-DAC.
