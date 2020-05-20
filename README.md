@@ -1,3 +1,3 @@
 # survey-DAC
 
-![visitors](https://visitor-badge.glitch.me/badge?page_ide=pietro-caragiulo.survey-DAC)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pietro-caragiulo.survey-DAC)
