@@ -10,7 +10,7 @@ P. Caragiulo, "DAC Performance Survey 1996-2020," [Online]. Available: https://g
 <tr>
   <td>Latest Release</td>
   <td>
-    [![GitHub version](https://badge.fury.io/gh/pietro-caragiulo%2Fsurvey-DAC.svg)](https://badge.fury.io/gh/pietro-caragiulo%2Fsurvey-DAC)
+<a href="https://badge.fury.io/gh/pietro-caragiulo%2Fsurvey-DAC"><img src="https://badge.fury.io/gh/pietro-caragiulo%2Fsurvey-DAC.svg" alt="GitHub version" height="18"></a>
   </td>
 </tr>
   
