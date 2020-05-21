@@ -1,4 +1,4 @@
-Ref,Author,Yr,M,Fs MS,Arch  msb+lsb,Cal,Fout test,Supply,SFDR,IM3,ZL,FS Iout,Power (mW), Process,Area (mm2),Publication,INL,DNL
+Ref,Author,Yr,M,Fs MS,Arch  msb+lsb,Cal,Fout test,Supply,SFDR,IM3,ZL,FS Iout,Power (mW),Process,Area (mm2),Publication,INL,DNL
 [08],Park,1999,10,70,"CS, 7+3",none,1,,55,,DNR,DNR,120,CMOS 800nm,6.2,Elec. Letters,0.79,0.69
 [09],Park,2000,10,100,"CS, 8+2",none,10,,52,,75,27,110,CMOS 350nm,3.6,TEC,0.43,0.17
 [11],Lin & Bult,1998,10,500,"CS, 8+2",none,240,,52,,75,27,125,CMOS 350nm,0.6,JSSC,0.2,0.1
@@ -99,6 +99,7 @@ Ref,Author,Yr,M,Fs MS,Arch  msb+lsb,Cal,Fout test,Supply,SFDR,IM3,ZL,FS Iout,Pow
 [121],Lin,2018,16,6000,CS,,3000,1.0/3.0,67,72,,,350,FinFet 16nm,0.52,ISSCC,,
 [122],Kim,2019,6,28000,CS,,13300,1.1/1.6,34.6,N/A,,,103,CMOS 40nm,0.08,VLSI,,
 [123],Huang,2019,14,10000,CS,,5000,1.1,64.3,71,,,210,CMOS 28nm,0.07,VLSI,,
-[124],Wang,2019,14,8000,CS,,3500,-0.6/1.6,45,62,,,2500,CMOS 40nm,8.25,TCAS,,
+[124],Wang,2019,14,8000,CS,,3500,-0.375,45,62,,,2500,CMOS 40nm,8.25,TCAS,,
 [125],Caragiulo,2020,8,14000,SC,,7000,0.8,34,45.3,,,50,FinFet 16nm,0.011,,,
 [126],Caragiulo,2020,8,28000,SC,,14000,0.8,37,45.6,,,88,FinFet 16nm,0.03,,,
+[127],J. Kim,2019,12,1000,CS,,6,1.8,80,N/A,,,12.5,FinFet 14nm,0.093,TCAS,,
