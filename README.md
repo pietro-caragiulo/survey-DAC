@@ -5,8 +5,10 @@ Authors: Pietro Caragiulo, Clayton Daigle, Boris Murmann (Stanford University)
 For use in publications and presentations please cite this data collection as follows:
 P. Caragiulo, "DAC Performance Survey 1996-2020," [Online]. Available: https://github.com/pietro-caragiulo/survey-DAC.
 -->
-
+Access the survey database here: <a href="https://github.com/pietro-caragiulo/survey-DAC/tree/master/data/data.csv">CSV database</a>
 Access the Jupyter Notebook of the survey here: <a href="https://github.com/pietro-caragiulo/survey-DAC/blob/master/notebook/survey.ipynb">Survey Notebook</a>
+
+
 
 ## Samples
 ### Power vs Output Frequency
