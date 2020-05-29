@@ -1,0 +1,51 @@
+# Created by Pietro Caragiulo (pietroc@stanford.edu)
+#
+# Matplotlib style file for IEEE compatible figure
+# Disclaimer: not an official IEEE style file use at your own risk
+# rev: 202003a
+
+# Figure
+figure.figsize : 3.3, 2.5
+figure.dpi : 600
+
+# Axes
+# Set line style and color cycle
+axes.prop_cycle : (cycler('color', ['k', 'r', 'b', 'g', 'k', 'r']) + cycler('ls', ['-', '--', '--', '--', '--', ':']))
+axes.linewidth : 0.5
+
+
+# Fonts
+font.size : 8
+font.serif : Times New Roman
+font.family : serif
+
+# X axis
+xtick.direction : in
+xtick.major.size : 3
+xtick.major.width : 0.5
+xtick.minor.size : 1.5
+xtick.minor.width : 0.5
+xtick.minor.visible :   True
+xtick.top : True
+
+# Y axis
+ytick.direction : in
+ytick.major.size : 3
+ytick.major.width : 0.5
+ytick.minor.size : 1.5
+ytick.minor.width : 0.5
+ytick.minor.visible :   True
+ytick.right : True
+
+# Grid
+grid.linewidth : 0.5
+
+# Plot lines
+lines.linewidth : 1
+
+# Legend
+legend.frameon : False
+
+# Savefig options
+savefig.bbox : tight
+savefig.pad_inches : 0.05
