@@ -1,105 +1,111 @@
-Ref,Author,Yr,M,Fs MS,Arch  msb+lsb,Cal,Fout test,Supply,SFDR,IM3,ZL,FS Iout,Power (mW),Process,Area (mm2),Publication,INL,DNL
-[08],Park,1999,10,70,"CS, 7+3",none,1,,55,,DNR,DNR,120,CMOS 800nm,6.2,Elec. Letters,0.79,0.69
-[09],Park,2000,10,100,"CS, 8+2",none,10,,52,,75,27,110,CMOS 350nm,3.6,TEC,0.43,0.17
-[11],Lin & Bult,1998,10,500,"CS, 8+2",none,240,,52,,75,27,125,CMOS 350nm,0.6,JSSC,0.2,0.1
-[18],Tesch,1997,14,100,"CS, 4+10",none,10,,70,,DNR,DNR,650,BiCMOS,16.73,JSSC,1,0.9
-[19],Bugeja,1999,14,100,"CS, 4+5+5, RZ, TA",Ext SA,25.5,,75,,50,20,750,CMOS 800nm,14.4,JSSC,0.5,0.5
-[20],Van der Plas,1999,14,150,"CS, 8+6",none,5,,61,,50,DNR,300,CMOS 500nm,13.1,JSSC,0.3,0.2
-[22],Bugeja,2000,14,200,"CS, 4+5+5, RZ, TA","BG, SA",90,,50,,50,20,210,CMOS 350nm,12,JSSC,0.3,0.3
-[23],Manganaro,2003,10,200,Q-mode,none,70,,60,,50,DNR,347,BiCMOS 500nm,1.5,CICC,DNR,DNR
-[24],Khanoyan,1999,10,300,Q-mode,none,150,,55,,DNR,DNR,90,CMOS 600nm,1.2,VLSI,DNR,DNR
-[28],Borremans,2001,10,1000,"CS, binary",none,15,,60,,DNR,2.5,10,CMOS 350nm,0.23,CICC,0.2,0.2
-[29],Cao,2006,10,1000,"CS, 6+4",none,193,,61,,100,2.7,49,CMOS 90nm,0.36,CICC,DNR,DNR
-[30],"Chen, T",2004,14,130,"CS, 7+7","FG, SD, timeq",7.6,,63,,DNR,DNR,103,CMOS 250nm,3.5,ESSCIRC,0.7,0.45
-[31],"Chen, H.H.",2006,14,150,"CS, 4+4+6","BG, SA",49,,67,,DNR,12,105,CMOS 350nm,2.8,VLSI,0.55,DNR
-[32],Cho,2004,10,210,CS 6+2+2,none,DNR,,DNR,,DNR,DNR,83,CMOS 350nm,5,,1.1,0.7
-[33],Choe,2005,12,1600,"CS, RZ",none,751,,58,,50,12,4000,GaAs HBT,12.25,JSSC,DNR,DNR
-[34],Choi,2002,14,640,"??, CS",none,-,,-,,-,-,-,CMOS 180nm,-,,-,-
-[35],Clara,2005,12,350,"??, CS",none,27,,76,,DNR,DNR,62,CMOS 130nm,DNR,ISSCC,DNR,DNR
-[36],Cong,2003,14,100,"CS, 6+4+4","FG, OI",42,,62,,100,10,16.7,CMOS 130nm,0.1,JSSC,0.43,0.34
-[37],Deveugele,2006,10,250,"CS, binary",none,122.5,,62.3,,DNR,10,22,CMOS 180nm,0.35,JSSC,0.1,0.1
-[38],Eloranta,2006,14,200,"CS, 6+5+3","FG, SD",1.6,,83,,DNR,19,59.3,CMOS 130nm,0.65,ISCAS,1.5,0.9
-[39],Francese,2004,13,35,"??, Q-mode",none,1.1,,80,,DNR,DNR,55,CMOS 180nm,0.94,JSSC,DNR,DNR
-[40],Ghittori,2005,8,80,"CS, Therm",none,10,,60,,DNR,DNR,DNR,CMOS 130nm,DNR,,DNR,DNR
-[41],Ghittori,2005,8,400,"CS, Therm",none,3,,61,,DNR,DNR,8.2,CMOS 130nm,0.7,VLSI,DNR,DNR
-[42],Giotta,2004,14,105,"??, CS Therm, I-V",none,0.3,,85,,DNR,DNR,DNR,CMOS 130nm,DNR,ESSCIRC,DNR,DNR
-[43],Ghittori,2006,8,600,"CS, Therm",none,12,,68,,220,2,2.4,CMOS 130nm,0.27,ESSCIRC,0.25,0.25
-[44],Halder,2005,10,80,"CS, 6+4",none,DNR,,DNR,,DNR,10.5,28,CMOS 250nm,DNR,,0.4,0.6
-[47],He,2004,12,150,"CS, 8+4",none,DNR,,DNR,,DNR,DNR,DNR,CMOS 500nm,1.2,,0.9,0.6
-[48],"Huang, Q",2004,14,200,"CS, 5+4+5, RZ","FG, SA",90,,62,,50,16,97,CMOS 180nm,1,ISSCC,0.7,0.6
-[49],"Huang, C.-Y.",2005,12,250,"CS, 7+5",none,3,,74,,50,DNR,67,CMOS 350nm,DNR,,0.5,0.25
-[50],"Huang, C.-Y.",2005,12,100,"CS, 7+5",DNR,DNR,,DNR,,DNR,DNR,DNR,CMOS 350nm,DNR,,,
-[51],Jewett,2005,15,1200,"CS, R2R, DEM",none,600,,65,,DNR,DNR,6000,BiCMOS,30.6,ISSCC,6,1.5
-[52],Kuo,2005,10,10,"CS, 4+4+2",none,DNR,,DNR,,DNR,DNR,2.5,CMOS 180nm,0.27,,0.14,0.14
-[53],Luschas,2003,?,514,"??, + MXR",none,942,,75,,DNR,DNR,DNR,CMOS 180nm,0.06,CICC,DNR,DNR
-[54],Nejati,2006,10,200,"CS, R2R ",none,50,,61,,DNR,0.192,1.9,CMOS 350nm,0.26,CICC,0.1,0.1
-[55],Ni,2006,12,300,"CS, 8+4",none,21,,58,,50,20,150,CMOS 350nm,3.52,ISCAS,0.6,0.5
-[56],"Park, S.Y.",2002,10,110,"CS, 6+4",none,DNR,,DNR,,DNR,DNR,126,CMOS 600nm,-,,0.8,0.5
-[57],Radke,2000,,,,,,,,,,,,,,JSSC,,
-[58],Radulov,2005,12,280,"CS, 6+6","FG, SA",25,,61,,50,20,270,CMOS 250nm,1.13,ESSCIRC,0.4,0.6
-[59],Rueger,2004,,,,,,,,,,,,,,ISSCC,,
-[60],Saeedi,2003,14,-,"CS, 4+4+6","BG, SA",1,,81,,25,20,51,CMOS 180nm,-,ICECS,0.35,0.15
-[61],Saeedi,2004,14,400,"CS, 4+4+6, TnA","BG, SA",165,,73,,DNR,20,63,CMOS 180nm,DNR,ISCAS,0.35,0.25
-[62],Schafferer,2004,14,1400,"CS, 6+8, DQS",none,260,,67,,DNR,30,400,CMOS 180nm,6.25,ISSCC,1.8,0.8
-[63],Seo,2007,12,160,"CS, 7+5",none,1,,74,,400,2,10.6,CMOS 90nm,0.13,JSSC,DNR,DNR
-[64],Tiilikainen,2001,14,100,"CS, 4+5+5 ",SA,10,,50,,50,4.1,20,CMOS 180nm,1,JSSC,0.5,0.5
-[65],Van den Bosch,1998,12,200,"CS, 8+4",none,2,,59,,50,20,140,CMOS 150nm,14,CICC,0.5,1
-[66],Van den Bosch,2001,10,1000,"CS, 5+5",none,490,,61.2,,50,16,110,CMOS 350nm,0.35,JSSC,0.2,0.15
-[67],Van den Bosch,2001,12,500,"CS, 5+7",none,125,,62,,50,16,110,CMOS 350nm,1,ISSCC,0.3,0.25
-[68],Zhou,2003,8,100,linear interp,none,35,,40,,DNR,DNR,55,CMOS 350nm,0.45,JSSC,0.3,0.1
-[69],Doris,2005,12,500,"CS, 6+6",none,245,,60,,50,15,216,CMOS 180nm,1.13,ISSCC,1,0.6
-[70],Mercer,2006,14,250,"CS, 5+4+5 ","FG, SA",50,,70,,500,2,15,CMOS 180nm,2.25,CICC,0.6,0.9
-[71],Schofield & Mercer,2003,16,400,"CS, 7+4+5","FG, SA",180,,75,,50,DNR,400,CMOS 250nm,DNR,ISSCC,DNR,DNR
-[72],Mercer,1996,12,125,"CS, 5+4+3",none,39,,54,,DNR,20,150,CMOS 600nm,3.05,ISLPED,0.8,0.6
-[73],O'Sullivan,2004,12,320,"CS, 3+4+5",none,60,,60,,50,20,82,CMOS 180nm,0.44,JSSC,0.3,0.4
-[74],Kohno,1995,,,,,,,,,,,,,,,,
-[75],Bae,2003,12,100,"CS, 8+4",none,10,,64,,DNR,DNR,91,CMOS 350nm,4.4,,1.73,0.75
-[76],Bastos & Marquis,1998,12,300,"CS, 6+2+4",none,60,,40,,50,20,320,CMOS 500nm,3.2,JSSC,0.3,0.6
-[77],Bastos & Stayaert,1996,12,250,,,,,,,,,,,,,,
-[78],Cheng,2004,14,200,,,,,,,,,,,,,,
-[80],Marques & Bastos,1998,12,300,,,,,,,,,,,,,,
-[81],Marques & Bastos,1998,12,300,,,,,,,,,,,,,,
-[82],Seo,2000,14,1000,,,,,,,,,,,,,,
-[83],Savoj,2007,8,12000,"CS, 3+5",clk phase adj,750,,42,,50,3.2,190,CMOS 90nm,0.23,VLSI,0.31,0.28
-[87],Wu & Steyaert,2008,6,3000,CS 6 ,none,1400,,36,,,,28,CMOS 130nm,0.2,JSSC,0,0
-[88],Seddighrad,2008,10,80,"??, + MXR",none,3600,,70,,,,,,,JSSC,0,0
-[89],Lin & Bult,2010,12,2900,"CS, 6+6",none,600,,56,,50,50,188,CMOS 65nm,,ISSCC,,
-[90],Kim,2010,6,2400,CS,none,1160,1,36,55,,,14,CMOS 65nm,0.023,,0.02,0.02
-[91],Kazeminia,2010,8,2500,CS,none,1245,3.3,54,N/A,,,83.5,CMOS 350nm,0.56,,0.28,0.3
-[92],Sedighi,2011,8,5000,CS,none,1000,3,48,N/A,,,26,BiCMOS 130nm,0.06,,,
-[93],Poulton,2011,14,7200,CS,CS calibration,3600,,77,,,,4600,BiCMOS 130nm,15,,0.8,
-[94],Poulton,2011,12,12000,CS,CS calibration,5000,,55,,,,4600,BiCMOS 130nm,15,,0.8,
-[95],Greshishchev,2011,6,56000,CS,clk phase,26900,1.1/2.5,30,N/A,,,750,CMOS 65nm,0.24,ISSCC,,
-[96],Le Tual,2011,9,3000,CS,none,1500,1.2,50,60,,,N/A,CMOS 65nm,0.04,VLSI,,
-[97],Wada,2012,8,,CS,none,5000,1.2,38,38,,,2.5,CMOS 90nm,0.034,,,
-[98],Engel,2012,14,3000,CS,,1500,,52,65,,,,CMOS 180nm,4,ISSCC,,
-[99],Chen,2012,6,3000,CS,,1500,1.2,35,47,,,8.32,CMOS 90nm,0.045,TCAS,,
-[100],Si-Nai,2012,6,3300,,,1596,12./1,36.4,N/A,,,47,CMOS 90nm,0.055,JSTS,0.25,0.22
-[101],Zhou,2013,12,2000,CS,none,1000,,57,,,,1300,CMOS 180nm,,,0.95,0.6
-[102],Xiao,2013,13,9000,CS,none,4500,1.8,45,45,,,360,CMOS 28nm,1.1,VLSI,,
-[103],Olieman,2014,9,11000,CS,,5500,1,51,51,,,110,FDSOI 28nm,0.04,VLSI,,
-[104],Lin,2014,12,1600,CS,,784,1.2,70,70,,,40,CMOS 40nm,0.016,JSSC,,
-[105],Lin,2014,12,2800,CS,,1400,1.2,47,61,,,47,CMOS 40nm,0.016,JSSC,,
-[106],Su,2014,12,8000,CS,,500,,75,N/A,,,430,CMOS 65nm,N/A,VLSI,,
-[107],Van de Vel,2014,16,3200,CS,"yes, 3D sort and combine",600,1.2/3.3,58,81,,,240,CMOS 65nm,N/A,ISSCC,,
-[108],Huang,2015,8,100000,CS,,25000,1.1/1.5/2,33,N/A,,,2500,CMOS 28nm,0.65,TMTT,,
-[109],Nazemi,2015,8,18000,CS,,8000,1/1.5,43,,,,84,CMOS 28nm,0.05,ISSCC,,
-[110],Radulov,2015,6,7000,CS,,3500,1.4/2.5,25,40,,,145,CMOS 28nm,0.035,VLSI,,
-[111],Engel,2015,16,10000,CS,,1000,,78,83,,,800,CMOS 65nm,N/A,VLSI,,
-[112],Ravinuthula,2016,14,8900,CS,,4450,1,52,66,,,1200,CMOS 40nm,N/A,VLSI,,
-[113],Zhou,2016,6,30000,CS,,14300,3.3/4.5,28.5,N/A,,,6200,SiGe 180nm,8.4,,0.15,0.15
-[114],Bechthum,2016,16,,CS,,1900,,62,82,,,380,CMOS 65nm,1.6,JSSC,,
-[115],Bechthum,2016,16,,CS,,4100,,63,62,,,380,CMOS 65nm,1.6,JSSC,,
-[116],Juanda,2017,4,10000,CS,,4530,1.2,23.3,,,,30,CMOS 65nm,,,0.16,0.12
-[117],Duncan,2017,10,,CS,,20000,,48,48,,,1910,BiCMOS 130nm,6.25,JSSC,,
-[120],Erdmann,2017,14,6800,CS,,5200,,65,67,,,330,FinFet 16nm,0.855,ISSCC,,
-[118],Kim,2018,6,20000,CS,,9200,1.2,35.1,N/A,,,136,CMOS 65nm,0.072,TCAS,,
-[119],Su,2018,16,12000,CS,,6000,1/2.5,52,67,,,1760,CMOS 65nm,1.71,JSSC,,
-[120],Li,2018,6,12000,CS,,6000,1.1,32,N/A,,,110,CMOS 40nm,0.035,ISCAS,0.14,0.12
-[121],Lin,2018,16,6000,CS,,3000,1.0/3.0,67,72,,,350,FinFet 16nm,0.52,ISSCC,,
-[122],Kim,2019,6,28000,CS,,13300,1.1/1.6,34.6,N/A,,,103,CMOS 40nm,0.08,VLSI,,
-[123],Huang,2019,14,10000,CS,,5000,1.1,64.3,71,,,210,CMOS 28nm,0.07,VLSI,,
-[124],Wang,2019,14,8000,CS,,3500,-0.375,45,62,,,2500,CMOS 40nm,8.25,TCAS,,
-[125],Caragiulo,2020,8,14000,SC,,7000,0.8,34,45.3,,,50,FinFet 16nm,0.011,,,
-[126],Caragiulo,2020,8,28000,SC,,14000,0.8,37,45.6,,,88,FinFet 16nm,0.03,,,
-[127],J. Kim,2019,12,1000,CS,,6,1.8,80,N/A,,,12.5,FinFet 14nm,0.093,TCAS,,
+Ref,Author,Yr,M,Type,Fs MS,Arch  msb+lsb,Cal,Fout test,Supply,SFDR,IM3,SNR,ZL,FS Iout,Vout_ppd,Power (mW),Energy_bit, Process,Area (mm2),Publication,INL,DNL
+[08],Park,1999,10,,70,"CS, 7+3",none,1,,55,,,DNR,DNR,,120,,CMOS 800nm,6.2,Elec. Letters,0.79,0.69
+[09],Park,2000,10,,100,"CS, 8+2",none,10,,52,,,75,27,,110,,CMOS 350nm,3.6,TEC,0.43,0.17
+[11],Lin & Bult,1998,10,,500,"CS, 8+2",none,240,,52,,,75,27,,125,,CMOS 350nm,0.6,JSSC,0.2,0.1
+[18],Tesch,1997,14,,100,"CS, 4+10",none,10,,70,,,DNR,DNR,,650,,BiCMOS,16.73,JSSC,1,0.9
+[19],Bugeja,1999,14,,100,"CS, 4+5+5, RZ, TA",Ext SA,25.5,,75,,,50,20,,750,,CMOS 800nm,14.4,JSSC,0.5,0.5
+[20],Van der Plas,1999,14,,150,"CS, 8+6",none,5,,61,,,50,DNR,,300,,CMOS 500nm,13.1,JSSC,0.3,0.2
+[22],Bugeja,2000,14,,200,"CS, 4+5+5, RZ, TA","BG, SA",90,,50,,,50,20,,210,,CMOS 350nm,12,JSSC,0.3,0.3
+[23],Manganaro,2003,10,,200,Q-mode,none,70,,60,,,50,DNR,,347,,BiCMOS 500nm,1.5,CICC,DNR,DNR
+[24],Khanoyan,1999,10,,300,Q-mode,none,150,,55,,,DNR,DNR,,90,,CMOS 600nm,1.2,VLSI,DNR,DNR
+[28],Borremans,2001,10,,1000,"CS, binary",none,15,,60,,,DNR,2.5,,10,,CMOS 350nm,0.23,CICC,0.2,0.2
+[29],Cao,2006,10,,1000,"CS, 6+4",none,193,,61,,,100,2.7,,49,,CMOS 90nm,0.36,CICC,DNR,DNR
+[30],"Chen, T",2004,14,,130,"CS, 7+7","FG, SD, timeq",7.6,,63,,,DNR,DNR,,103,,CMOS 250nm,3.5,ESSCIRC,0.7,0.45
+[31],"Chen, H.H.",2006,14,,150,"CS, 4+4+6","BG, SA",49,,67,,,DNR,12,,105,,CMOS 350nm,2.8,VLSI,0.55,DNR
+[32],Cho,2004,10,,210,CS 6+2+2,none,DNR,,DNR,,,DNR,DNR,,83,,CMOS 350nm,5,,1.1,0.7
+[33],Choe,2005,12,,1600,"CS, RZ",none,751,,58,,,50,12,,4000,,GaAs HBT,12.25,JSSC,DNR,DNR
+[34],Choi,2002,14,,640,"??, CS",none,-,,-,,,-,-,,-,,CMOS 180nm,-,,-,-
+[35],Clara,2005,12,,350,"??, CS",none,27,,76,,,DNR,DNR,,62,,CMOS 130nm,DNR,ISSCC,DNR,DNR
+[36],Cong,2003,14,,100,"CS, 6+4+4","FG, OI",42,,62,,,100,10,,16.7,,CMOS 130nm,0.1,JSSC,0.43,0.34
+[37],Deveugele,2006,10,,250,"CS, binary",none,122.5,,62.3,,,DNR,10,,22,,CMOS 180nm,0.35,JSSC,0.1,0.1
+[38],Eloranta,2006,14,,200,"CS, 6+5+3","FG, SD",1.6,,83,,,DNR,19,,59.3,,CMOS 130nm,0.65,ISCAS,1.5,0.9
+[39],Francese,2004,13,,35,"??, Q-mode",none,1.1,,80,,,DNR,DNR,,55,,CMOS 180nm,0.94,JSSC,DNR,DNR
+[40],Ghittori,2005,8,,80,"CS, Therm",none,10,,60,,,DNR,DNR,,DNR,,CMOS 130nm,DNR,,DNR,DNR
+[41],Ghittori,2005,8,,400,"CS, Therm",none,3,,61,,,DNR,DNR,,8.2,,CMOS 130nm,0.7,VLSI,DNR,DNR
+[42],Giotta,2004,14,,105,"??, CS Therm, I-V",none,0.3,,85,,,DNR,DNR,,DNR,,CMOS 130nm,DNR,ESSCIRC,DNR,DNR
+[43],Ghittori,2006,8,,600,"CS, Therm",none,12,,68,,,220,2,,2.4,,CMOS 130nm,0.27,ESSCIRC,0.25,0.25
+[44],Halder,2005,10,,80,"CS, 6+4",none,DNR,,DNR,,,DNR,10.5,,28,,CMOS 250nm,DNR,,0.4,0.6
+[47],He,2004,12,,150,"CS, 8+4",none,DNR,,DNR,,,DNR,DNR,,DNR,,CMOS 500nm,1.2,,0.9,0.6
+[48],"Huang, Q",2004,14,,200,"CS, 5+4+5, RZ","FG, SA",90,,62,,,50,16,,97,,CMOS 180nm,1,ISSCC,0.7,0.6
+[49],"Huang, C.-Y.",2005,12,,250,"CS, 7+5",none,3,,74,,,50,DNR,,67,,CMOS 350nm,DNR,,0.5,0.25
+[50],"Huang, C.-Y.",2005,12,,100,"CS, 7+5",DNR,DNR,,DNR,,,DNR,DNR,,DNR,,CMOS 350nm,DNR,,,
+[51],Jewett,2005,15,,1200,"CS, R2R, DEM",none,600,,65,,,DNR,DNR,,6000,,BiCMOS,30.6,ISSCC,6,1.5
+[52],Kuo,2005,10,,10,"CS, 4+4+2",none,DNR,,DNR,,,DNR,DNR,,2.5,,CMOS 180nm,0.27,,0.14,0.14
+[53],Luschas,2003,?,,514,"??, + MXR",none,942,,75,,,DNR,DNR,,DNR,,CMOS 180nm,0.06,CICC,DNR,DNR
+[54],Nejati,2006,10,,200,"CS, R2R ",none,50,,61,,,DNR,0.192,,1.9,,CMOS 350nm,0.26,CICC,0.1,0.1
+[55],Ni,2006,12,,300,"CS, 8+4",none,21,,58,,,50,20,,150,,CMOS 350nm,3.52,ISCAS,0.6,0.5
+[56],"Park, S.Y.",2002,10,,110,"CS, 6+4",none,DNR,,DNR,,,DNR,DNR,,126,,CMOS 600nm,-,,0.8,0.5
+[57],Radke,2000,,,,,,,,,,,,,,,,,,JSSC,,
+[58],Radulov,2005,12,,280,"CS, 6+6","FG, SA",25,,61,,,50,20,,270,,CMOS 250nm,1.13,ESSCIRC,0.4,0.6
+[59],Rueger,2004,,,,,,,,,,,,,,,,,,ISSCC,,
+[60],Saeedi,2003,14,,-,"CS, 4+4+6","BG, SA",1,,81,,,25,20,,51,,CMOS 180nm,-,ICECS,0.35,0.15
+[61],Saeedi,2004,14,,400,"CS, 4+4+6, TnA","BG, SA",165,,73,,,DNR,20,,63,,CMOS 180nm,DNR,ISCAS,0.35,0.25
+[62],Schafferer,2004,14,,1400,"CS, 6+8, DQS",none,260,,67,,,DNR,30,,400,,CMOS 180nm,6.25,ISSCC,1.8,0.8
+[63],Seo,2007,12,,160,"CS, 7+5",none,1,,74,,,400,2,,10.6,,CMOS 90nm,0.13,JSSC,DNR,DNR
+[64],Tiilikainen,2001,14,,100,"CS, 4+5+5 ",SA,10,,50,,,50,4.1,,20,,CMOS 180nm,1,JSSC,0.5,0.5
+[65],Van den Bosch,1998,12,,200,"CS, 8+4",none,2,,59,,,50,20,,140,,CMOS 150nm,14,CICC,0.5,1
+[66],Van den Bosch,2001,10,,1000,"CS, 5+5",none,490,,61.2,,,50,16,,110,,CMOS 350nm,0.35,JSSC,0.2,0.15
+[67],Van den Bosch,2001,12,,500,"CS, 5+7",none,125,,62,,,50,16,,110,,CMOS 350nm,1,ISSCC,0.3,0.25
+[68],Zhou,2003,8,,100,linear interp,none,35,,40,,,DNR,DNR,,55,,CMOS 350nm,0.45,JSSC,0.3,0.1
+[69],Doris,2005,12,,500,"CS, 6+6",none,245,,60,,,50,15,,216,,CMOS 180nm,1.13,ISSCC,1,0.6
+[70],Mercer,2006,14,,250,"CS, 5+4+5 ","FG, SA",50,,70,,,500,2,,15,,CMOS 180nm,2.25,CICC,0.6,0.9
+[71],Schofield & Mercer,2003,16,,400,"CS, 7+4+5","FG, SA",180,,75,,,50,DNR,,400,,CMOS 250nm,DNR,ISSCC,DNR,DNR
+[72],Mercer,1996,12,,125,"CS, 5+4+3",none,39,,54,,,DNR,20,,150,,CMOS 600nm,3.05,ISLPED,0.8,0.6
+[73],O'Sullivan,2004,12,,320,"CS, 3+4+5",none,60,,60,,,50,20,,82,,CMOS 180nm,0.44,JSSC,0.3,0.4
+[74],Kohno,1995,,,,,,,,,,,,,,,,,,,,
+[75],Bae,2003,12,,100,"CS, 8+4",none,10,,64,,,DNR,DNR,,91,,CMOS 350nm,4.4,,1.73,0.75
+[76],Bastos & Marquis,1998,12,,300,"CS, 6+2+4",none,60,,40,,,50,20,,320,,CMOS 500nm,3.2,JSSC,0.3,0.6
+[77],Bastos & Stayaert,1996,12,,250,,,,,,,,,,,,,,,,,
+[78],Cheng,2004,14,,200,,,,,,,,,,,,,,,,,
+[80],Marques & Bastos,1998,12,,300,,,,,,,,,,,,,,,,,
+[81],Marques & Bastos,1998,12,,300,,,,,,,,,,,,,,,,,
+[82],Seo,2000,14,,1000,,,,,,,,,,,,,,,,,
+[83],Savoj,2007,8,,12000,"CS, 3+5",clk phase adj,750,,42,,,50,3.2,,190,,CMOS 90nm,0.23,VLSI,0.31,0.28
+[87],Wu & Steyaert,2008,6,,3000,CS 6 ,none,1400,,36,,,,,,28,,CMOS 130nm,0.2,JSSC,0,0
+[88],Seddighrad,2008,10,,80,"??, + MXR",none,3600,,70,,,,,,,,,,JSSC,0,0
+[89],Lin & Bult,2010,12,,2900,"CS, 6+6",none,600,,56,,,50,50,,188,,CMOS 65nm,,ISSCC,,
+[90],Kim,2010,6,,2400,CS,none,1160,1,36,55,,,,N/A,14,,CMOS 65nm,0.023,,0.02,0.02
+[91],Kazeminia,2010,8,,2500,CS,none,1245,3.3,54,N/A,,,,N/A,83.5,,CMOS 350nm,0.56,,0.28,0.3
+[92],Sedighi,2011,8,,5000,CS,none,1000,3,48,N/A,,,,N/A,26,,BiCMOS 130nm,0.06,,,
+[93],Poulton,2011,14,,7200,CS,CS calibration,3600,,77,,,,,0.9,4600,,BiCMOS 130nm,15,,0.8,
+[94],Poulton,2011,12,,12000,CS,CS calibration,5000,,55,,,,,0.9,4600,,BiCMOS 130nm,15,,0.8,
+[95],Greshishchev,2011,6,,56000,CS,clk phase,26900,1.1/2.5,30,N/A,,,,0.4,750,,CMOS 65nm,0.24,ISSCC,,
+[96],Le Tual,2011,9,,3000,CS,none,1500,1.2,50,60,,,,0.4,N/A,,CMOS 65nm,0.04,VLSI,,
+[97],Wada,2012,8,,,CS,none,5000,1.2,38,38,,,,N/A,2.5,,CMOS 90nm,0.034,,,
+[98],Engel,2012,14,,3000,CS,,1500,,52,65,,,,1,,,CMOS 180nm,4,ISSCC,,
+[99],Chen,2012,6,,3000,CS,,1500,1.2,35,47,,,,0.4,8.32,,CMOS 90nm,0.045,TCAS,,
+[100],Si-Nai,2015,6,,3300,,,1596,12./1,36.4,N/A,,,,N/A,47,,CMOS 90nm,0.055,JSTS,0.25,0.22
+[101],Zhou,2013,12,,2000,CS,none,1000,,57,,,,,1.1,1300,,CMOS 180nm,,,0.95,0.6
+[102],Xiao,2013,13,,9000,CS,none,4500,1.8,45,45,,,,0.19,360,,CMOS 28nm,1.1,VLSI,,
+[103],Olieman,2014,9,,11000,CS,,5500,1,51,51,,,,0.425,110,,FDSOI 28nm,0.04,VLSI,,
+[104],Lin,2014,12,,1600,CS,,784,1.2,70,70,,,,0.8,40,,CMOS 40nm,0.016,JSSC,,
+[105],Lin,2014,12,,2800,CS,,1400,1.2,47,61,,,,N/A,47,,CMOS 40nm,0.016,JSSC,,
+[106],Su,2014,12,,8000,CS,,500,,75,N/A,,,,N/A,430,,CMOS 65nm,N/A,VLSI,,
+[107],Van de Vel,2014,16,,3200,CS,"yes, 3D sort and combine",600,1.2/3.3,58,81,,,,1,240,,CMOS 65nm,N/A,ISSCC,,
+[108],Huang,2015,8,,100000,CS,,25000,1.1/1.5/2,33,N/A,,,,N/A,2500,,CMOS 28nm,0.65,TMTT,,
+[109],Nazemi,2015,8,,18000,CS,,8000,1/1.5,43,,,,,0.8,84,,CMOS 28nm,0.05,ISSCC,,
+[110],Radulov,2015,6,,7000,CS,,3500,1.4/2.5,25,40,,,,0.5,145,,CMOS 28nm,0.035,VLSI,,
+[111],Engel,2015,16,,10000,CS,,1000,,78,83,,,,N/A,800,,CMOS 65nm,N/A,VLSI,,
+[112],Ravinuthula,2016,14,,8900,CS,,4450,1,52,66,,,,0.68,1200,,CMOS 40nm,N/A,VLSI,,
+[113],Zhou,2016,6,,30000,CS,,14300,3.3/4.5,28.5,N/A,,,,0.75,6200,,SiGe 180nm,8.4,,0.15,0.15
+[114],Bechthum,2016,16,,,CS,,1900,,62,82,,,,0.35,380,,CMOS 65nm,1.6,JSSC,,
+[115],Bechthum,2016,16,,,CS,,4100,,63,62,,,,0.35,380,,CMOS 65nm,1.6,JSSC,,
+[116],Juanda,2017,4,,10000,CS,,4530,1.2,23.3,,,,,0.12,30,,CMOS 65nm,,,0.16,0.12
+[117],Duncan,2017,10,,,CS,,20000,,48,48,,,,0.63,1910,,BiCMOS 130nm,6.25,JSSC,,
+[120],Erdmann,2017,14,,6800,CS,,5200,,65,67,,,,1,330,,FinFet 16nm,0.855,ISSCC,,
+[118],Kim,2018,6,,20000,CS,,9200,1.2,35.1,N/A,,,,0.75,136,,CMOS 65nm,0.072,TCAS,,
+[119],Su,2018,16,,12000,CS,,6000,1/2.5,52,67,,,,0.4,1760,,CMOS 65nm,1.71,JSSC,,
+[120],Li,2018,6,,12000,CS,,6000,1.1,32,N/A,,,,,110,,CMOS 40nm,0.035,ISCAS,0.14,0.12
+[121],Lin,2018,16,,6000,CS,,3000,1.0/3.0,67,72,,,,1,350,,FinFet 16nm,0.52,ISSCC,,
+[122],Kim,2019,6,,28000,CS,,13300,1.1/1.6,34.6,N/A,,,,0.2,103,,CMOS 40nm,0.08,VLSI,,
+[123],Huang,2019,14,,10000,CS,,5000,1.1,64.3,71,,,,0.4,210,,CMOS 28nm,0.07,VLSI,,
+[124],Wang,2019,14,,8000,CS,,3500,-0.6/1.6,45,62,,,,0.9,2500,,CMOS 40nm,8.25,TCAS,,
+[125],Caragiulo,2020,8,,14000,SC,,7000,0.8,34,45.3,,,,0.32,50,,FinFet 16nm,0.011,VLSI,,
+[126],Caragiulo,2020,8,,28000,SC,,14000,0.8,37,45.6,,,,0.32,88,,FinFet 16nm,0.03,,,
+[127],J. Kim,2019,12,,1000,CS,,6,1.8,80,,,,,0.2,12.5,,FinFet 14nm,0.093,TCAS,,
+[128],C. Menolfi,2018,8,DAC-TX,56000,SST,,28000,0.95,29,,,,,0.92,286,2.55,FinFet 14nm,0.095,ISSCC,0.45,0.4
+[129],Y.Greshishchev,2019,8,,60000,CS,,30000,0.9/1.9,30,,,,,0.8,560,,FinFet 7nm,0.31,BCICTS,1,0.5
+[130],J.Cao,2017,8,DAC-TX,64000,CS,,16000,1/1.5,40,,,,,,950,,CMOS 20nm,0.4,ISSCC,,
+[131],M. Pisati,2019,7,DAC-TX,30000,SST,,,0.9/0.75,,,,,,,44,,FinFet 7nm,0.12,ISSCC,,
+[132],E.Groen,2020,7,DAC-TX,56000,SST,,,0.9/1.2,,,,,,1.2,175,,FinFet 7nm,0.07,ISSCC,,
+[133],K. Tan,2018,8,DAC -TX,112000,SST,,,0.9,,,,,,1,345,,FinFET 16nm,0.38,VLSI,,
